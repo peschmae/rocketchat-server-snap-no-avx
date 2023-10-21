@@ -2,7 +2,8 @@ name: Update snap release
 
 on:
   release:
-    - published
+    types:
+      - published
 
 jobs:
 
