@@ -216,7 +216,7 @@ parts:
     # node: 12.22.8
     plugin: dump
     # source: https://cdn-download.rocket.chat/build/rocket.chat-$SNAPCRAFT_PROJECT_VERSION.tgz
-    source: https://releases.rocket.chat/6.0.0/download
+    source: https://releases.rocket.chat/$SNAPCRAFT_PROJECT_VERSION/download
     source-type: tar
     after:
       - node
