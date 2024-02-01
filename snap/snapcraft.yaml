@@ -123,7 +123,7 @@ parts:
       #- on amd64: https://nodejs.org/download/release/v12.22.8/node-v12.22.8-linux-x64.tar.gz
       #- on amd64: https://nodejs.org/download/release/v14.18.3/node-v14.18.3-linux-x64.tar.xz
       #- on amd64: https://nodejs.org/download/release/v14.19.3/node-v14.19.3-linux-x64.tar.xz
-      - on amd64: https://nodejs.org/download/release/v14.21.2/node-v14.21.3-linux-x64.tar.xz
+      - on amd64: https://nodejs.org/download/release/v14.21.3/node-v14.21.3-linux-x64.tar.xz
         #- on arm64: https://nodejs.org/download/release/v12.22.8/node-v12.22.8-linux-arm64.tar.gz
       - on arm64: https://nodejs.org/download/release/v14.18.3/node-v14.18.3-linux-arm64.tar.gz
     stage:
